@@ -1,0 +1,12 @@
+.data {
+  border-radius: 10%;
+  /* border-style: solid; */
+  background-color: #dbbf9b;
+  text-align: center;
+  width: 20%;
+  height: 20%;
+}
+* {
+  margin-top: 6%;
+  margin-left: 16%;
+}

@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+* {
+  font-family: "Playfair Display", serif;
+}
+
+.note_show {
+  width: 15rem;
+  height: auto;
+  margin-left: 3rem;
+}
+Button {
+  float: left;
+}

@@ -1,0 +1,15 @@
+.input_cshow {
+  box-sizing: border-box;
+  padding: 0;
+  padding-left: 0%;
+  margin: 0%;
+  float: left;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+  border-style: solid;
+  border-color: black;
+  background-color: blue;
+}
+/* .input_cshow span label {
+  background-color: blueviolet;
+} */

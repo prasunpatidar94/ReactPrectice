@@ -1,0 +1,8 @@
+.create_notes {
+  height: 12rem;
+  background-color: rgb(255, 255, 204);
+  border-radius: 1rem;
+}
+.notes_show {
+  display: flex;
+}

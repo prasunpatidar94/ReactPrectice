@@ -1,0 +1,8 @@
+.header_show {
+  background-color: pink;
+  border-style: solid;
+  height: 5rem;
+}
+.header_show div {
+  float: left;
+}

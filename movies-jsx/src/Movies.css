@@ -1,0 +1,22 @@
+.main {
+  float: left;
+}
+.cards {
+  box-sizing: border-box;
+  border: 2px;
+  border-style: solid;
+  border-color: azure;
+  background-color: blanchedalmond;
+  margin: 0%;
+  margin-right: 80%;
+  padding: 0%;
+  text-align: center;
+  transition: transform 0.2s;
+}
+.cards:hover {
+  transform: scale(1.1);
+}
+.img__card {
+  width: 200px;
+  height: 200px;
+}

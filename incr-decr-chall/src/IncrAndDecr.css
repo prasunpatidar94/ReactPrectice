@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: burlywood;
+}
+.outer {
+  width: 25%;
+  height: 15rem;
+  border-style: solid;
+  border-radius: 10%;
+  margin-top: 15%;
+  margin-left: 40%;
+  background-color: cadetblue;
+}
+
+.value {
+  margin-top: 20%;
+  text-align: center;
+}
+.value h1 {
+  background-color: azure;
+}
+
+.btns {
+  margin-top: 5%;
+  background-color: darkcyan;
+  display: flex;
+}
+.btns button {
+  flex: 100%;
+  margin: 2%;
+  font-size: larger;
+  color: whitesmoke;
+  background-color: black;
+}
+button:hover {
+  background-color: cadetblue;
+}
